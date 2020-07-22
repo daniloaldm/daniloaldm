@@ -6,7 +6,7 @@
 
 ## Bem-vindo
 
-Meu nome é Danilo, sempre me impressionando com as tecnologias ao meu redor
+Meu nome é Danilo, busco sempre me aperfeiçoar com as tecnologias de desenvolvimento web!
 
 - 📚 Estudante de ciência da computação no Instituto Federal do Ceará - Campus Maracanaú, Brasil
 - 🔭 Atualmente, estou trabalhando como desenvolvedor na Bleez E-commerce
