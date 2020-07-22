@@ -1,6 +1,6 @@
 # Danilo Alexandrino
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-alexandrino-4aaa1518b/)]([https://www.linkedin.com/in/danilo-alexandrino-4aaa1518b/])
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-alexandrino-4aaa1518b/)](https://www.linkedin.com/in/danilo-alexandrino-4aaa1518b/)
 [![Instagram](https://img.shields.io/badge/-Instagram-ff2b8e?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/daniloaldm/)](https://www.instagram.com/daniloaldm/) 
 [![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danilo.alexandrinodm@gmail.com)](mailto:danilo.alexandrinodm@gmail.com) 
 
