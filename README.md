@@ -10,7 +10,7 @@ Meu nome é Danilo, sempre me impressionando com as tecnologias ao meu redor
 
 - 📚 Estudante de ciência da computação no Instituto Federal do Ceará - Campus Maracanaú, Brasil
 - 🔭 Atualmente, estou trabalhando como desenvolvedor na Bleez E-commerce
-- 🌱 Estou aprendendo no momento Django Rest Framework e o Angular 8 🛢💻📱
+- 🌱 Estou aprendendo no momento Django Rest Framework 🛢💻📱
 - 📫 Se você quiser falar comigo, clique nas opções acima e me contate pelo chat 💬
 
 *Sinta-se livre para navegar em alguns dos meus projetos*
