@@ -10,7 +10,7 @@ My name is Danilo, always impressing me with the technologies around me
 
 - 📚 I'm computer science student at Federal Institute of Ceará - Campus Maracanaú, Brazil
 - 🔭 I’m currently working as a developer in Bleez E-commerce
-- 🌱 I’m currently learning javascript (Django REST framework and Angular 8) 🛢💻📱
+- 🌱 I’m currently learning Django REST framework and Angular 8 🛢💻📱
 - 📫 If you want to talk to me, click on the options above and call me by chat 💬
 
 *Feel free to browse some of my projects*
