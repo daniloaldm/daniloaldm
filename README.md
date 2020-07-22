@@ -4,13 +4,13 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-ff2b8e?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/daniloaldm/)](https://www.instagram.com/daniloaldm/) 
 [![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danilo.alexandrinodm@gmail.com)](mailto:danilo.alexandrinodm@gmail.com) 
 
-## Welcome to my profile
+## Bem-vindo
 
-My name is Danilo, always impressing me with the technologies around me
+Meu nome é Danilo, sempre me impressionando com as tecnologias ao meu redor
 
-- 📚 I'm computer science student at Federal Institute of Ceará - Campus Maracanaú, Brazil
-- 🔭 I’m currently working as a developer in Bleez E-commerce
-- 🌱 I’m currently learning Django REST framework and Angular 8 🛢💻📱
-- 📫 If you want to talk to me, click on the options above and call me by chat 💬
+- 📚 Estudante de ciência da computação no Instituto Federal do Ceará - Campus Maracanaú, Brasil
+- 🔭 Atualmente, estou trabalhando como desenvolvedor na Bleez E-commerce
+- 🌱 Estou aprendendo no momento Django Rest Framework e o Angular 8 🛢💻📱
+- 📫 Se você quiser falar comigo, clique nas opções acima e me contate pelo chat 💬
 
-*Feel free to browse some of my projects*
+* Sinta-se livre para navegar em alguns dos meus projetos *
