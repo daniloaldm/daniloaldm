@@ -13,4 +13,4 @@ Meu nome é Danilo, sempre me impressionando com as tecnologias ao meu redor
 - 🌱 Estou aprendendo no momento Django Rest Framework e o Angular 8 🛢💻📱
 - 📫 Se você quiser falar comigo, clique nas opções acima e me contate pelo chat 💬
 
-* Sinta-se livre para navegar em alguns dos meus projetos *
+*Sinta-se livre para navegar em alguns dos meus projetos*
