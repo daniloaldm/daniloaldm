@@ -1,16 +1,27 @@
-# Danilo Alexandrino
+<p align="center">
+  <samp>
+    I'm Danilo Alexandrino. A Web Developer from Brazil. 
+     <br><br>
+     <img width="10px" src="https://raw.githubusercontent.com/arielff3/arielff3/68f5b4bc764182ed14a00d18ed802bd5b1977548/.github/arrow.svg" alt="arrow"/> Contact me on <img width="10px" src="https://raw.githubusercontent.com/arielff3/arielff3/68f5b4bc764182ed14a00d18ed802bd5b1977548/.github/arrow.svg" alt="arrow"/>
+  </samp>
+</p>
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-alexandrino-4aaa1518b/)](https://www.linkedin.com/in/danilo-alexandrino-4aaa1518b/)
-[![Instagram](https://img.shields.io/badge/-Instagram-ff2b8e?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/daniloaldm/)](https://www.instagram.com/daniloaldm/) 
-[![E-mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danilo.alexandrinodm@gmail.com)](mailto:danilo.alexandrinodm@gmail.com) 
+<p align="center">
+  <a style="color:#1BB5A2" href="https://www.linkedin.com/in/danilo-alexandrino-4aaa1518b/">Linkedin</a> |
+  <a style="color:#1BB5A2" href="https://api.whatsapp.com/send?phone=5573998497288&text=Ol%C3%A1%2C%20vim%20pelo%20seu%20github">Whatsapp</a> |
+  <a style="color:#1BB5A2" href="https://www.instagram.com/daniloaldm/">Instagram</a>
+</p>
+<!--
+**arielff3/arielff3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Bem-vindo
+Here are some ideas to get you started:
 
-Meu nome é Danilo, busco sempre me aperfeiçoar com as tecnologias de desenvolvimento web!
-
-- 📚 Estudante de ciência da computação no Instituto Federal do Ceará - Campus Maracanaú, Brasil
-- 🔭 Atualmente, estou trabalhando como desenvolvedor na Bleez E-commerce
-- 🌱 Estou aprendendo no momento Django Rest Framework 🛢💻📱
-- 📫 Se você quiser falar comigo, clique nas opções acima e me contate pelo chat 💬
-
-*Sinta-se livre para navegar em alguns dos meus projetos*
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
