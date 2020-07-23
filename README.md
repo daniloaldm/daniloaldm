@@ -14,6 +14,7 @@
   <a style="color:#1BB5A2" href="https://www.instagram.com/daniloaldm/">Instagram</a>
 </p>
 
+<!--
 ![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/-PYTHON-yellow?style=flat&logo=python&logoColor=white)
 ![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -25,7 +26,7 @@
 <a href="https://git-scm.com" target="_blank"> ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)</a>
 <a href="https://code.visualstudio.com" target="_blank"> ![VSCode Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)</a>
 <a href="https://docker.com" target="_blank"> ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)</a>
-
+-->
 <!--
 Here are some ideas to get you started:
 
